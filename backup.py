@@ -1,3 +1,6 @@
+# This program will export all the tests in all buckets for the authenticated runscope account 
+# source: https://github.com/Runscope/runscope-api-examples/tree/master/examples/backup-tests
+
 # requires file config.json with content as below. replace <runscopeToken> with actual runscopeToken
 # {
 #   "runscope": {
